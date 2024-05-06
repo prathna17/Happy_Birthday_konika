@@ -1,0 +1,13 @@
+body{
+    background-size: 1370px 680px;
+}
+.btn{
+    position: absolute;
+    bottom: 5px;
+    left: 610px;
+    border-radius: 30px;
+    height: 40px;
+    width: 120px;
+    font-size: 1.25em;
+    background: linear-gradient(to right,#916f59, #e29912);
+}
